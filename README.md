@@ -20,4 +20,4 @@ Deadfall — это мрачный, кровавый, атмосферный, д
 
 ## Скриншоты: ##
 
-(https://cdn.akamai.steamstatic.com/steam/apps/2566110/ss_70d7826994c8d9abe5a63740513ed65f2e1fce7e.600x338.jpg "Screen1")
+![Alt-текст](https://cdn.akamai.steamstatic.com/steam/apps/2566110/ss_70d7826994c8d9abe5a63740513ed65f2e1fce7e.600x338.jpg "Screen1")
