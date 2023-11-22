@@ -1,0 +1,20 @@
+What was it?@Что это было?
+What's going on there?@Что там творится?
+What happened?@Что произошло?
+Did I dream?@Мне померещилось?
+Have you seen it?@Вы это видели?
+Did you hear it?@Вы это слышали?
+Ah?@А-а?
+What...@Какого...
+What?@Что?
+Did you notice anything?@Вы ничего не заметили?
+Didn't you see anything?@Ты ничего не видел?
+I noticed something@Я что-то заметил
+I heard something@Я что-то услышал
+I saw something@Я что-то видел
+Hey there?@Эй, там?
+Aa-a?@Ау-у?
+What the hell?@Что за черт?
+What is happening there?@Что там происходит?
+What the hell is this?@Что за чертовщина?
+What kind of bullshit is this?@Это что за хуйня?
