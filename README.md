@@ -26,7 +26,6 @@ Deadfall - is a dark, bloody, atmospheric, dynamic, and brutal shooter in the st
 
 ## Russian ##
 
-# Dead_fall
 Deadfall — это мрачный, кровавый, атмосферный, динамичный, брутальный шутер на прохождение в духе боевиков 80-90-ых годов.
 
 ## Сюжет: ##
