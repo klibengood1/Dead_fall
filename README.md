@@ -44,3 +44,23 @@ Deadfall — это мрачный, кровавый, атмосферный, д
 *   Красивые реалистичные визуальные и звуковые эффекты
 *   Динамичный взрывной саундтрек в жанрах Metal и Synthwave в авторском исполнении
 *   Нотка чёрного юмора и задорности
+
+##Español ##
+Deadfall es un shooter oscuro, sangriento, atmosférico, dinámico y brutal en el estilo de las películas de acción de los años 80 y 90.
+
+## ARGUMENTO: ##
+ En el año 2026, en las profundidades de la Isla Rockford, un grupo de científicos liderado por Ben Brodberi realiza experimentos en primates. Su objetivo es crear un medicamento que mejore las capacidades físicas humanas. Tú eres Rouch Craig, un sargento y el mejor luchador del valiente escuadrón B4 bajo el mando del Coronel Paul Greenberg, un entusiasta militar con amplia experiencia en combate. Después de recibir información sobre los experimentos, envió a su agente Alex Birn al laboratorio para obtener el medicamento y mejorar a sus soldados. El agente llegó al lugar y pronto dejó de comunicarse. Para averiguar qué sucedió, el coronel envía a su mejor escuadrón B4 liderado por Rouch a la isla. Pero llegar allí no es tan sencillo, ¡toda la isla está vigilada por los mejores hombres de Brodberi!
+
+## Características: ##
+* Lucha en peligrosas islas tropicales llenas de criaturas y mercenarios
+* Explora laboratorios, búnkers y otros complejos con sus propios peligros
+* Niveles de gran escala con variabilidad en la forma de completarlos
+* Elige entre 2 modos de dificultad: "Recluta" y "Veterano"
+* Varios vehículos a tu disposición: Hummers militares y lanchas con ametralladoras y lanzacohetes a bordo, e incluso tanques
+* Completa diversas misiones peligrosas en tu camino hacia tu objetivo
+* Sistema de comando del escuadrón B4: actúa con compañeros de equipo o solo
+* Más de 15 tipos de armas de fuego, granadas y botiquines disponibles
+* Utiliza diferentes tácticas para luchar contra los enemigos: ataca directamente o sigilosamente
+* Hermosos efectos visuales y sonoros realistas
+* Banda sonora explosiva y dinámica en los géneros de Metal y Synthwave interpretada por el autor
+* Un toque de humor negro y vitalidad.
