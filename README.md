@@ -45,7 +45,7 @@ Deadfall — это мрачный, кровавый, атмосферный, д
 *   Динамичный взрывной саундтрек в жанрах Metal и Synthwave в авторском исполнении
 *   Нотка чёрного юмора и задорности
 
-##Español ##
+## Español ##
 Deadfall es un shooter oscuro, sangriento, atmosférico, dinámico y brutal en el estilo de las películas de acción de los años 80 y 90.
 
 ## ARGUMENTO: ##
